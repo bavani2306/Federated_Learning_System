@@ -1,0 +1,5 @@
+[tool.flwr.app]
+publisher = "federated-health"
+
+[tool.flwr.simulation]
+num-supernodes = 5
