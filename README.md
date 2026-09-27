@@ -130,7 +130,7 @@ streamlit run hospital_app.py
 ---
 ## Contributors
 
-**Bhuvanesh**
+**Bavani**
 - Final Year B.Tech Project – Artificial Intelligence and Data Science using Python
 
 ---
